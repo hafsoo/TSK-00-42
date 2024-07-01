@@ -53,7 +53,7 @@ function Profile() {
           </button>
         </>
       ) : (
-        <p>Loading...</p>
+        <p>Loading....</p>
       )}
     </div>
   );
